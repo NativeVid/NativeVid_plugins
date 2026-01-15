@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-15 22:47:19",
+  "updated_at": "2026-01-15 23:07:56",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -49,9 +49,9 @@
         "international": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.antigravity.video_compressor-v1.1.0/com.antigravity.video_compressor_1.1.0.zip",
         "china": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.antigravity.video_compressor_1.1.0.zip"
       },
-      "hash": "sha256:ae9a0fe182bda9d450a67324871a9fd802e95adc881ff28c4cdc3e8913ca499b",
+      "hash": "sha256:11a168dcedcc11b1341a54b57dcda07b05343045f4ac37e4ae58cd6f45442150",
       "runtimeVersion": "v1",
-      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icons/com.antigravity.video_compressor.png"
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/com.antigravity.video_compressor.png"
     }
   ]
 }
