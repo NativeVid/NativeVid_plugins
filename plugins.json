@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-15 23:47:00",
+  "updated_at": "2026-01-16 00:17:42",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "type": "script",
       "author": "Antigravity",
       "tags": [
@@ -12,9 +12,9 @@
         "视频瘦身",
         "极限压缩"
       ],
-      "size": 75382,
+      "size": 75779,
       "downloads": 0,
-      "updatedAt": "2026-01-15",
+      "updatedAt": "2026-01-16",
       "i18n": {
         "ja_JP": {
           "name": "高速ビデオ圧縮",
@@ -46,10 +46,10 @@
         }
       },
       "downloadUrls": {
-        "international": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.antigravity.video_compressor-v1.2.0/com.antigravity.video_compressor_1.2.0.zip",
-        "china": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.antigravity.video_compressor_1.2.0.zip"
+        "international": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.antigravity.video_compressor-v1.3.0/com.antigravity.video_compressor_1.3.0.zip",
+        "china": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.antigravity.video_compressor_1.3.0.zip"
       },
-      "hash": "sha256:e9e8c82822b4c928f35ad6ee100709eaed2545c8fcc4b7f75208442a4ba3388e",
+      "hash": "sha256:018a8e292ae26b505b8321c78442217fa8f0bdbf58cb2f4bde1366c2fee1e13b",
       "runtimeVersion": "v1",
       "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.antigravity.video_compressor.png"
     }
