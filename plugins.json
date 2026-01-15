@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-16 02:19:43",
+  "updated_at": "2026-01-16 02:40:25",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -104,6 +104,58 @@
       "hash": "sha256:8fdf4b8601816bd44f6cb1e1f61ff1efb8230386492eec11e26a34bdbbce8431",
       "runtimeVersion": "v1",
       "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.guzhizha.smart_cut.png"
+    },
+    {
+      "id": "com.smart_cut",
+      "version": "1.0.0",
+      "type": "script",
+      "author": "官方",
+      "tags": [
+        "AI",
+        "分镜",
+        "场景检测",
+        "视频处理"
+      ],
+      "size": 121573,
+      "downloads": 0,
+      "updatedAt": "2026-01-16",
+      "i18n": {
+        "ja_JP": {
+          "name": "スマートシーンカット",
+          "description": "AI による映像シーン検出で、自動的にカットタイムラインを生成します。"
+        },
+        "zh_CN": {
+          "name": "智能分镜",
+          "description": "AI 自动识别视频场景切换点，生成分镜时间轴。"
+        },
+        "en_US": {
+          "name": "Smart Scene Cut",
+          "description": "AI-powered scene detection that generates a shot timeline for your video."
+        },
+        "hi_IN": {
+          "name": "स्मार्ट सीन कट",
+          "description": "एआई आधारित सीन डिटेक्शन, जो अपने आप वीडियो के लिए शॉट टाइमलाइन बनाता है।"
+        },
+        "ru_RU": {
+          "name": "Умная нарезка сцен",
+          "description": "Определение смены сцен с помощью ИИ и автоматическое создание таймлайна кадров видео."
+        },
+        "de_DE": {
+          "name": "Intelligenter Szenenschnitt",
+          "description": "KI-gestützte Erkennung von Schnittpunkten, die automatisch eine Szenen-Timeline für dein Video erzeugt."
+        },
+        "pt_BR": {
+          "name": "Corte de Cena Inteligente",
+          "description": "Detecção de cenas com IA para gerar automaticamente uma linha do tempo de cortes do vídeo."
+        }
+      },
+      "downloadUrls": {
+        "international": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v1.0.0/com.smart_cut_1.0.0.zip",
+        "china": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_1.0.0.zip"
+      },
+      "hash": "sha256:39d6e9200e99e0310ad355ff4663cf8b2de59dc2ca976b3bad9b50ced4487a03",
+      "runtimeVersion": "v1",
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.smart_cut.png"
     }
   ]
 }
