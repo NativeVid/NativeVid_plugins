@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-01-15 22:11:38",
+  "plugins": [
+    {
+      "id": "com.antigravity.video_compressor",
+      "version": "1.1.0",
+      "type": "script",
+      "author": "Antigravity",
+      "tags": [
+        "工具",
+        "视频瘦身",
+        "极限压缩"
+      ],
+      "size": 74664,
+      "downloads": 0,
+      "updatedAt": "2026-01-15",
+      "i18n": {
+        "ja_JP": {
+          "name": "高速ビデオ圧縮",
+          "description": "画質を維持しながらファイルサイズを大幅に削減する、使いやすい圧縮ツールです。"
+        },
+        "zh_CN": {
+          "name": "极速视频压缩",
+          "description": "简单好用的视频压缩工具，让您的视频在保持清晰的同时大幅减小体积。"
+        },
+        "en_US": {
+          "name": "Ultra Video Compressor",
+          "description": "An easy-to-use tool that shrinks your video size while maintaining high clarity."
+        },
+        "hi_IN": {
+          "name": "अल्ट्रा वीडियो कंप्रेसर",
+          "description": "एक आसान टूल जो आपके वीडियो की स्पष्टता बनाए रखते हुए उसके आकार को छोटा करता है।"
+        },
+        "ru_RU": {
+          "name": "Ultra Видео Компрессор",
+          "description": "Простой инструмент для уменьшения размера видео при сохранении высокой четкости."
+        },
+        "de_DE": {
+          "name": "Ultra Videokompressor",
+          "description": "Ein benutzerfreundliches Tool, das Ihre Videodateien verkleinert und dabei eine hohe Bildschärfe beibehält."
+        },
+        "pt_BR": {
+          "name": "Compressor de Vídeo Ultra",
+          "description": "Uma ferramenta fácil de usar que reduz o tamanho do seu vídeo mantendo a alta nitidez."
+        }
+      },
+      "downloadUrls": {
+        "international": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/com.antigravity.video_compressor_1.1.0.zip",
+        "china": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.antigravity.video_compressor_1.1.0.zip"
+      },
+      "hash": "sha256:a8bce62abeb9266567730f05140fb6254e1e499b623a21d95e9386bd92924bc5",
+      "runtimeVersion": "v1",
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icons/com.antigravity.video_compressor.png"
+    }
+  ]
+}
