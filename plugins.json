@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-16 02:40:25",
+  "updated_at": "2026-01-16 02:41:12",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -12,7 +12,7 @@
         "视频瘦身",
         "极限压缩"
       ],
-      "size": 76062,
+      "size": 139937,
       "downloads": 0,
       "updatedAt": "2026-01-16",
       "i18n": {
@@ -49,7 +49,7 @@
         "international": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.antigravity.video_compressor-v1.4.0/com.antigravity.video_compressor_1.4.0.zip",
         "china": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.antigravity.video_compressor_1.4.0.zip"
       },
-      "hash": "sha256:a865ec83daa746bfcb01f0d177659933a44a35add8e56903651223cb871b946a",
+      "hash": "sha256:201f4bb6aefad86a6de225bddc17efadedd63a2e24a6e92c408857a2e4e592ff",
       "runtimeVersion": "v1",
       "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.antigravity.video_compressor.png"
     },
