@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-17 19:32:27",
+  "updated_at": "2026-01-17 19:44:46",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -58,7 +58,7 @@
       "id": "com.smart_cut",
       "version": "1.0.0",
       "type": "script",
-      "author": "官方",
+      "author": "NativeVid",
       "tags": [
         "AI",
         "分镜",
@@ -104,7 +104,8 @@
       },
       "hash": "sha256:39d6e9200e99e0310ad355ff4663cf8b2de59dc2ca976b3bad9b50ced4487a03",
       "runtimeVersion": "v1",
-      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.smart_cut.png"
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.smart_cut.png",
+      "disabled": false
     }
   ]
 }
