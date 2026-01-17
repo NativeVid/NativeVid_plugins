@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-16 12:28:07",
+  "updated_at": "2026-01-17 19:32:27",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
       "version": "1.5.0",
       "type": "script",
-      "author": "Antigravity",
+      "author": "NativeVid",
       "tags": [
         "工具",
         "视频瘦身",
@@ -51,7 +51,8 @@
       },
       "hash": "sha256:a3d571e92ac410aca3e1c00f64616f89e7be257bcf5f247d6e28e51b0c1a8fe9",
       "runtimeVersion": "v1",
-      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.antigravity.video_compressor.png"
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.antigravity.video_compressor.png",
+      "disabled": false
     },
     {
       "id": "com.smart_cut",
