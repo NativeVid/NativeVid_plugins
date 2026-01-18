@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-17 19:44:46",
+  "updated_at": "2026-01-18 15:10:17",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -56,7 +56,7 @@
     },
     {
       "id": "com.smart_cut",
-      "version": "1.0.0",
+      "version": "1.3.0",
       "type": "script",
       "author": "NativeVid",
       "tags": [
@@ -65,9 +65,9 @@
         "场景检测",
         "视频处理"
       ],
-      "size": 121573,
+      "size": 125068,
       "downloads": 0,
-      "updatedAt": "2026-01-16",
+      "updatedAt": "2026-01-18",
       "i18n": {
         "ja_JP": {
           "name": "スマートシーンカット",
@@ -99,13 +99,12 @@
         }
       },
       "downloadUrls": {
-        "international": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v1.0.0/com.smart_cut_1.0.0.zip",
-        "china": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_1.0.0.zip"
+        "international": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v1.3.0/com.smart_cut_1.3.0.zip",
+        "china": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_1.3.0.zip"
       },
-      "hash": "sha256:39d6e9200e99e0310ad355ff4663cf8b2de59dc2ca976b3bad9b50ced4487a03",
+      "hash": "sha256:28e22352ab1e2b5ef7baf481da595deefa7c0fc5b7648fd9e6de22b4cf76014e",
       "runtimeVersion": "v1",
-      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.smart_cut.png",
-      "disabled": false
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.smart_cut.png"
     }
   ]
 }
