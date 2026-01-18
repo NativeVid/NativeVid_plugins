@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-18 16:14:40",
+  "updated_at": "2026-01-18 16:28:30",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -56,57 +56,58 @@
     },
     {
       "id": "com.smart_cut",
-      "version": "1.5.0",
+      "version": "2.0.0",
       "type": "script",
       "author": "NativeVid",
       "tags": [
         "AI",
         "分镜",
         "场景检测",
+        "视频分割",
         "视频处理"
       ],
-      "size": 67160264,
+      "size": 67162732,
       "downloads": 0,
       "updatedAt": "2026-01-18",
       "i18n": {
         "ja_JP": {
           "name": "スマートシーンカット",
-          "description": "AI による映像シーン検出で、自動的にカットタイムラインを生成します。"
+          "description": "AIによる映像シーン検出で、動画を複数のクリップに自動分割します。"
         },
         "zh_CN": {
           "name": "智能分镜",
-          "description": "AI 自动识别视频场景切换点，生成分镜时间轴。"
+          "description": "AI 自动识别视频场景切换点，并将视频分割为多个片段。"
         },
         "en_US": {
           "name": "Smart Scene Cut",
-          "description": "AI-powered scene detection that generates a shot timeline for your video."
+          "description": "AI-powered scene detection that automatically splits your video into multiple clips."
         },
         "hi_IN": {
           "name": "स्मार्ट सीन कट",
-          "description": "एआई आधारित सीन डिटेक्शन, जो अपने आप वीडियो के लिए शॉट टाइमलाइन बनाता है।"
+          "description": "एआई आधारित सीन डिटेक्शन जो आपके वीडियो को अपने आप कई क्लिप में बांट देता है।"
         },
         "ru_RU": {
           "name": "Умная нарезка сцен",
-          "description": "Определение смены сцен с помощью ИИ и автоматическое создание таймлайна кадров видео."
+          "description": "Обнаружение сцен на основе ИИ, которое автоматически разделяет видео на несколько клипов."
         },
         "de_DE": {
           "name": "Intelligenter Szenenschnitt",
-          "description": "KI-gestützte Erkennung von Schnittpunkten, die automatisch eine Szenen-Timeline für dein Video erzeugt."
+          "description": "KI-gestützte Szenenerkennung, die dein Video automatisch in mehrere Clips aufteilt."
         },
         "pt_BR": {
           "name": "Corte de Cena Inteligente",
-          "description": "Detecção de cenas com IA para gerar automaticamente uma linha do tempo de cortes do vídeo."
+          "description": "Detecção de cenas com IA que divide automaticamente seu vídeo em vários clipes."
         }
       },
       "downloadUrls": {
-        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v1.5.0/com.smart_cut_1.5.0_win.zip",
-        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_1.5.0_win.zip",
-        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v1.5.0/com.smart_cut_1.5.0_mac.zip",
-        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_1.5.0_mac.zip"
+        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.0.0/com.smart_cut_2.0.0_win.zip",
+        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_2.0.0_win.zip",
+        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.0.0/com.smart_cut_2.0.0_mac.zip",
+        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_2.0.0_mac.zip"
       },
       "hash": {
-        "win": "sha256:5c2c1ff54c078d3b2be232fcdaccdc516b1223edc42a1983a7b9bc56dbfe09a9",
-        "mac": "sha256:3cd41fcb68ced03cbd89ff6768dc84aee3a285f620f93401ea0c0cee9832bf66"
+        "win": "sha256:a4f1b2c740b90eea71102b554c4b83eff294c1c92c527c0f99f16e3d9b972a95",
+        "mac": "sha256:dbec9421edba5e838d8dbb17381b2f6b3637d329bf7265c4c2b6b2b9be262cec"
       },
       "runtimeVersion": "v1",
       "platformSpecific": true,
