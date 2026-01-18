@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-18 15:49:05",
+  "updated_at": "2026-01-18 16:14:40",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -56,7 +56,7 @@
     },
     {
       "id": "com.smart_cut",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "type": "script",
       "author": "NativeVid",
       "tags": [
@@ -65,7 +65,7 @@
         "场景检测",
         "视频处理"
       ],
-      "size": 67208586,
+      "size": 67160264,
       "downloads": 0,
       "updatedAt": "2026-01-18",
       "i18n": {
@@ -99,14 +99,14 @@
         }
       },
       "downloadUrls": {
-        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v1.4.0/com.smart_cut_1.4.0_win.zip",
-        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_1.4.0_win.zip",
-        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v1.4.0/com.smart_cut_1.4.0_mac.zip",
-        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_1.4.0_mac.zip"
+        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v1.5.0/com.smart_cut_1.5.0_win.zip",
+        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_1.5.0_win.zip",
+        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v1.5.0/com.smart_cut_1.5.0_mac.zip",
+        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_1.5.0_mac.zip"
       },
       "hash": {
-        "win": "sha256:61208077eb0a222cdd800afccc620b21d4c3224e9fa907683f85511a5be22bf1",
-        "mac": "sha256:180116c3a556647113e6eb9464201a66b06bd3cb0c917dba03987232dded67de"
+        "win": "sha256:5c2c1ff54c078d3b2be232fcdaccdc516b1223edc42a1983a7b9bc56dbfe09a9",
+        "mac": "sha256:3cd41fcb68ced03cbd89ff6768dc84aee3a285f620f93401ea0c0cee9832bf66"
       },
       "runtimeVersion": "v1",
       "platformSpecific": true,
