@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-18 16:43:53",
+  "updated_at": "2026-01-20 13:56:15",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
-      "version": "1.6.0",
+      "version": "1.8.0",
       "type": "script",
       "author": "NativeVid",
       "tags": [
@@ -14,7 +14,7 @@
       ],
       "size": 92994,
       "downloads": 0,
-      "updatedAt": "2026-01-18",
+      "updatedAt": "2026-01-20",
       "i18n": {
         "ja_JP": {
           "name": "高速ビデオ圧縮",
@@ -46,10 +46,10 @@
         }
       },
       "downloadUrls": {
-        "international": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.antigravity.video_compressor-v1.6.0/com.antigravity.video_compressor_1.6.0.zip",
-        "china": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.antigravity.video_compressor_1.6.0.zip"
+        "international": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.antigravity.video_compressor-v1.8.0/com.antigravity.video_compressor_1.8.0.zip",
+        "china": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.antigravity.video_compressor_1.8.0.zip"
       },
-      "hash": "sha256:d191c65c7443fab0feb81e1e46d8d7c6b7093802553c8328414b233ac9510dc1",
+      "hash": "sha256:03f89a125582634ba1654f8159aa55994bc817ba8ff030d12c575e9274b4d828",
       "runtimeVersion": "v1",
       "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.antigravity.video_compressor.png"
     },
