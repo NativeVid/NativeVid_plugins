@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-20 14:44:27",
+  "updated_at": "2026-01-20 22:48:16",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -116,7 +116,7 @@
     },
     {
       "id": "com.nvid.audio_stem_separator",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "type": "script",
       "author": "NativeVid",
       "tags": [
@@ -126,7 +126,7 @@
         "人声分离",
         "Demucs"
       ],
-      "size": 15295,
+      "size": 15294,
       "downloads": 0,
       "updatedAt": "2026-01-20",
       "i18n": {
@@ -160,19 +160,17 @@
         }
       },
       "downloadUrls": {
-        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.2.0/com.nvid.audio_stem_separator_1.2.0_win.zip",
-        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.2.0_win.zip",
-        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.2.0/com.nvid.audio_stem_separator_1.2.0_mac.zip",
-        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.2.0_mac.zip"
+        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.3.0/com.nvid.audio_stem_separator_1.3.0_win.zip",
+        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.3.0_win.zip",
+        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.3.0/com.nvid.audio_stem_separator_1.3.0_mac.zip",
+        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.3.0_mac.zip"
       },
       "hash": {
-        "win": "sha256:10c67ba15169a703ef243eef197c65199f4fd56d2306faf2daa631cbfae8833c",
-        "mac": "sha256:10c67ba15169a703ef243eef197c65199f4fd56d2306faf2daa631cbfae8833c"
+        "win": "sha256:12b15fff04f1abae8fd5929ec99bbaa0b28bea7ea6323b46bdd4d77a2c6a5ed5",
+        "mac": "sha256:12b15fff04f1abae8fd5929ec99bbaa0b28bea7ea6323b46bdd4d77a2c6a5ed5"
       },
       "runtimeVersion": "v1",
-      "platformSpecific": true,
-      "disabled": false,
-      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.nvid.audio_stem_separator.png"
+      "platformSpecific": true
     }
   ]
 }
