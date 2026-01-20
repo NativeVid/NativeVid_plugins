@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-20 13:56:15",
+  "updated_at": "2026-01-20 13:57:53",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -55,7 +55,7 @@
     },
     {
       "id": "com.smart_cut",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "type": "script",
       "author": "NativeVid",
       "tags": [
@@ -65,9 +65,9 @@
         "视频分割",
         "视频处理"
       ],
-      "size": 67162732,
+      "size": 67162734,
       "downloads": 0,
-      "updatedAt": "2026-01-18",
+      "updatedAt": "2026-01-20",
       "i18n": {
         "ja_JP": {
           "name": "スマートシーンカット",
@@ -99,14 +99,14 @@
         }
       },
       "downloadUrls": {
-        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.0.0/com.smart_cut_2.0.0_win.zip",
-        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_2.0.0_win.zip",
-        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.0.0/com.smart_cut_2.0.0_mac.zip",
-        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_2.0.0_mac.zip"
+        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.1.0/com.smart_cut_2.1.0_win.zip",
+        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_2.1.0_win.zip",
+        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.1.0/com.smart_cut_2.1.0_mac.zip",
+        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_2.1.0_mac.zip"
       },
       "hash": {
-        "win": "sha256:a4f1b2c740b90eea71102b554c4b83eff294c1c92c527c0f99f16e3d9b972a95",
-        "mac": "sha256:dbec9421edba5e838d8dbb17381b2f6b3637d329bf7265c4c2b6b2b9be262cec"
+        "win": "sha256:e7a507a17fbde013ec4ec5949b449e3a7d077827d9125dbaf7a6f0db40cab46e",
+        "mac": "sha256:906387882429efa78bdea0ec31cbb3a53be684e1912d8db3c54991c0d4da3073"
       },
       "runtimeVersion": "v1",
       "platformSpecific": true,
