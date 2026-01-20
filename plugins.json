@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-20 14:44:15",
+  "updated_at": "2026-01-20 14:44:27",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -170,7 +170,9 @@
         "mac": "sha256:10c67ba15169a703ef243eef197c65199f4fd56d2306faf2daa631cbfae8833c"
       },
       "runtimeVersion": "v1",
-      "platformSpecific": true
+      "platformSpecific": true,
+      "disabled": false,
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.nvid.audio_stem_separator.png"
     }
   ]
 }
