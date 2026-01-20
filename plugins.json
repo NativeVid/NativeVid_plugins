@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-20 06:06:37",
+  "updated_at": "2026-01-20 22:11:42",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -112,6 +112,64 @@
       "platformSpecific": true,
       "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.smart_cut.png",
       "disabled": false
+    },
+    {
+      "id": "com.nvid.audio_stem_separator",
+      "version": "1.0.0",
+      "type": "script",
+      "author": "NVID",
+      "tags": [
+        "AI",
+        "音频",
+        "音轨分离",
+        "人声分离",
+        "Demucs"
+      ],
+      "size": 14522,
+      "downloads": 0,
+      "updatedAt": "2026-01-20",
+      "i18n": {
+        "ja_JP": {
+          "name": "オーディオトラック分離",
+          "description": "Demucs AIモデルを使用して、オーディオ/ビデオからボーカル、ドラム、ベース、ギター、ピアノなどのトラックを分離します"
+        },
+        "zh_CN": {
+          "name": "音轨分离",
+          "description": "使用 Demucs AI 模型分离音频/视频中的人声、鼓、贝斯、吉他、钢琴等音轨"
+        },
+        "en_US": {
+          "name": "Audio Stem Separator",
+          "description": "Separate vocals, drums, bass, guitar, piano and other stems from audio/video using Demucs AI model"
+        },
+        "hi_IN": {
+          "name": "ऑडियो ट्रैक विभाजक",
+          "description": "Demucs AI मॉडल का उपयोग करके ऑडियो/वीडियो से वोकल, ड्रम, बास, गिटार, पियानो और अन्य ट्रैक अलग करें"
+        },
+        "ru_RU": {
+          "name": "Разделитель аудио-дорожек",
+          "description": "Разделяйте вокал, барабаны, бас, гитару, фортепиано и другие дорожки из аудио/видео с помощью модели Demucs AI"
+        },
+        "de_DE": {
+          "name": "Audio-Stem-Trenner",
+          "description": "Trennen Sie Gesang, Schlagzeug, Bass, Gitarre, Klavier und andere Stems aus Audio/Video mit dem Demucs AI-Modell"
+        },
+        "pt_BR": {
+          "name": "Separador de Faixas de Áudio",
+          "description": "Separe vocais, bateria, baixo, guitarra, piano e outras faixas de áudio/vídeo usando o modelo Demucs AI"
+        }
+      },
+      "downloadUrls": {
+        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.0.0/com.nvid.audio_stem_separator_1.0.0_win.zip",
+        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.0.0_win.zip",
+        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.0.0/com.nvid.audio_stem_separator_1.0.0_mac.zip",
+        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.0.0_mac.zip"
+      },
+      "hash": {
+        "win": "sha256:d4f7c8fe01cf334e8ccf400579d2f30f57d3275336340f2afc3c8caf9128d8f3",
+        "mac": "sha256:d4f7c8fe01cf334e8ccf400579d2f30f57d3275336340f2afc3c8caf9128d8f3"
+      },
+      "runtimeVersion": "v1",
+      "platformSpecific": true
     }
   ]
 }
