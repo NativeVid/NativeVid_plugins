@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-20 06:06:26",
+  "updated_at": "2026-01-20 06:06:37",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -102,7 +102,7 @@
         "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.1.0/com.smart_cut_2.1.0_win.zip",
         "china_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.1.0/com.smart_cut_2.1.0_win.zip",
         "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.1.0/com.smart_cut_2.1.0_mac.zip",
-        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_2.1.0_mac.zip"
+        "china_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.1.0/com.smart_cut_2.1.0_mac.zip"
       },
       "hash": {
         "win": "sha256:e7a507a17fbde013ec4ec5949b449e3a7d077827d9125dbaf7a6f0db40cab46e",
