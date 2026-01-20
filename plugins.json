@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-20 22:21:08",
+  "updated_at": "2026-01-20 14:44:03",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -51,7 +51,8 @@
       },
       "hash": "sha256:03f89a125582634ba1654f8159aa55994bc817ba8ff030d12c575e9274b4d828",
       "runtimeVersion": "v1",
-      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.antigravity.video_compressor.png"
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.antigravity.video_compressor.png",
+      "disabled": false
     },
     {
       "id": "com.smart_cut",
