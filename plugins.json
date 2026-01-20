@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-20 22:11:42",
+  "updated_at": "2026-01-20 22:16:44",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -115,9 +115,9 @@
     },
     {
       "id": "com.nvid.audio_stem_separator",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "type": "script",
-      "author": "NVID",
+      "author": "NativeVid",
       "tags": [
         "AI",
         "音频",
@@ -125,7 +125,7 @@
         "人声分离",
         "Demucs"
       ],
-      "size": 14522,
+      "size": 15267,
       "downloads": 0,
       "updatedAt": "2026-01-20",
       "i18n": {
@@ -159,14 +159,14 @@
         }
       },
       "downloadUrls": {
-        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.0.0/com.nvid.audio_stem_separator_1.0.0_win.zip",
-        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.0.0_win.zip",
-        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.0.0/com.nvid.audio_stem_separator_1.0.0_mac.zip",
-        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.0.0_mac.zip"
+        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.1.0/com.nvid.audio_stem_separator_1.1.0_win.zip",
+        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.1.0_win.zip",
+        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.1.0/com.nvid.audio_stem_separator_1.1.0_mac.zip",
+        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.1.0_mac.zip"
       },
       "hash": {
-        "win": "sha256:d4f7c8fe01cf334e8ccf400579d2f30f57d3275336340f2afc3c8caf9128d8f3",
-        "mac": "sha256:d4f7c8fe01cf334e8ccf400579d2f30f57d3275336340f2afc3c8caf9128d8f3"
+        "win": "sha256:2019aeb49c9fa0dd346c81cef1810589413a231a5d400200f6d0f79bfb1eb30c",
+        "mac": "sha256:2019aeb49c9fa0dd346c81cef1810589413a231a5d400200f6d0f79bfb1eb30c"
       },
       "runtimeVersion": "v1",
       "platformSpecific": true
