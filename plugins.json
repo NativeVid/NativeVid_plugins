@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-20 23:17:37",
+  "updated_at": "2026-01-22 15:02:16",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -171,7 +171,8 @@
       },
       "runtimeVersion": "v1",
       "platformSpecific": true,
-      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.nvid.audio_stem_separator.png"
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.nvid.audio_stem_separator.png",
+      "disabled": true
     }
   ]
 }
