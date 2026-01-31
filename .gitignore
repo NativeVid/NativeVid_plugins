@@ -1,0 +1,71 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+*.egg
+.eggs/
+
+# ===== 构建产物（不需要上传） =====
+dist/
+build/
+*.app/
+*.dmg
+*.exe
+*.msi
+
+# ===== 前端依赖（通过 npm install 重新安装） =====
+frontend/node_modules/
+frontend/dist/
+
+# ===== 管理后台（独立项目，不上传） =====
+nativevid-admin/
+
+# ===== 日志文件 =====
+logs/
+*.log
+
+# ===== 本地数据库和敏感文件 =====
+*.db
+*.sqlite
+*.sqlite3
+.nvid_salt
+.env
+.env.local
+.env.*.local
+
+# ===== IDE 和编辑器 =====
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*/.DS_Store
+Thumbs.db
+
+# ===== 测试和临时文件 =====
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+*.tmp
+*.temp
+
+# ===== 本地开发用，不上传 =====
+插件开发/
+docs/
+tests/
+
+# ===== 其他 =====
+*.bak
+*.backup
+.python_runtime_cache/
+nuitka-crash-report.xml
