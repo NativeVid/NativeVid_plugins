@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-03-20 10:25:55",
+  "updated_at": "2026-03-20 13:51:51",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -115,7 +115,7 @@
     },
     {
       "id": "com.nvid.audio_stem_separator",
-      "version": "1.7.0",
+      "version": "1.7.1",
       "type": "script",
       "author": "NativeVid",
       "tags": [
@@ -125,7 +125,7 @@
         "人声分离",
         "Demucs"
       ],
-      "size": 58495,
+      "size": 58728,
       "downloads": 0,
       "updatedAt": "2026-03-20",
       "i18n": {
@@ -159,14 +159,14 @@
         }
       },
       "downloadUrls": {
-        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.7.0/com.nvid.audio_stem_separator_1.7.0_win.zip",
-        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.7.0_win.zip",
-        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.7.0/com.nvid.audio_stem_separator_1.7.0_mac.zip",
-        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.7.0_mac.zip"
+        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.7.1/com.nvid.audio_stem_separator_1.7.1_win.zip",
+        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.7.1_win.zip",
+        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nvid.audio_stem_separator-v1.7.1/com.nvid.audio_stem_separator_1.7.1_mac.zip",
+        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nvid.audio_stem_separator_1.7.1_mac.zip"
       },
       "hash": {
-        "win": "sha256:0a7ac5b4665377c9abba81bd71468dea5fb7de12d99ca96c6f032fff3c5bd306",
-        "mac": "sha256:0a7ac5b4665377c9abba81bd71468dea5fb7de12d99ca96c6f032fff3c5bd306"
+        "win": "sha256:9ba64ec915b20e1402b67ea16d4c118b5a0acb7243cc9491fa845e5e5cce07fa",
+        "mac": "sha256:9ba64ec915b20e1402b67ea16d4c118b5a0acb7243cc9491fa845e5e5cce07fa"
       },
       "runtimeVersion": "v1",
       "platformSpecific": true,
