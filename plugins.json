@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-01-31 13:43:33",
+  "updated_at": "2026-03-20 10:24:57",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -56,7 +56,7 @@
     },
     {
       "id": "com.smart_cut",
-      "version": "2.1.0",
+      "version": "2.2.0",
       "type": "script",
       "author": "NativeVid",
       "tags": [
@@ -66,9 +66,9 @@
         "视频分割",
         "视频处理"
       ],
-      "size": 67162734,
+      "size": 108251724,
       "downloads": 0,
-      "updatedAt": "2026-01-20",
+      "updatedAt": "2026-03-20",
       "i18n": {
         "ja_JP": {
           "name": "スマートシーンカット",
@@ -100,19 +100,18 @@
         }
       },
       "downloadUrls": {
-        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.1.0/com.smart_cut_2.1.0_win.zip",
-        "china_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.1.0/com.smart_cut_2.1.0_win.zip",
-        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.1.0/com.smart_cut_2.1.0_mac.zip",
-        "china_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.1.0/com.smart_cut_2.1.0_mac.zip"
+        "international_win": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.2.0/com.smart_cut_2.2.0_win.zip",
+        "china_win": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_2.2.0_win.zip",
+        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.smart_cut-v2.2.0/com.smart_cut_2.2.0_mac.zip",
+        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.smart_cut_2.2.0_mac.zip"
       },
       "hash": {
-        "win": "sha256:e7a507a17fbde013ec4ec5949b449e3a7d077827d9125dbaf7a6f0db40cab46e",
-        "mac": "sha256:906387882429efa78bdea0ec31cbb3a53be684e1912d8db3c54991c0d4da3073"
+        "win": "sha256:e71d54a8d442b02189b3003d162aa85d93bd0a77597382b998a16a0e4bc82f06",
+        "mac": "sha256:20ea3d6e4ae04661ddb5d16d24026ba996f2745c9aa95aec398f3ff0ae3a82f1"
       },
       "runtimeVersion": "v1",
       "platformSpecific": true,
-      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.smart_cut.png",
-      "disabled": false
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.smart_cut.png"
     },
     {
       "id": "com.nvid.audio_stem_separator",
