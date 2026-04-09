@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-04-09 21:19:36",
+  "updated_at": "2026-04-09 21:38:29",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -174,7 +174,7 @@
     },
     {
       "id": "com.nativevid.youtube_downloader",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "type": "script",
       "author": "NativeVid",
       "tags": [
@@ -184,7 +184,7 @@
         "SRT",
         "工具"
       ],
-      "size": 36280922,
+      "size": 36281500,
       "downloads": 0,
       "updatedAt": "2026-04-09",
       "i18n": {
@@ -218,11 +218,11 @@
         }
       },
       "downloadUrls": {
-        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nativevid.youtube_downloader-v1.0.0/com.nativevid.youtube_downloader_1.0.0_mac.zip",
-        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nativevid.youtube_downloader_1.0.0_mac.zip"
+        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nativevid.youtube_downloader-v1.0.1/com.nativevid.youtube_downloader_1.0.1_mac.zip",
+        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nativevid.youtube_downloader_1.0.1_mac.zip"
       },
       "hash": {
-        "mac": "sha256:e088400783a553adcf7ce11249a8fe2a0b56e67edc039078f56555fddc040bf8"
+        "mac": "sha256:77cf56cb341c7b84ad65501167aeee8a1ecb2568e46cefc33e306feb9b082eff"
       },
       "runtimeVersion": "v1",
       "platformSpecific": true,
