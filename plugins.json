@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-03-21 22:07:13",
+  "updated_at": "2026-04-09 21:19:36",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -171,6 +171,62 @@
       "runtimeVersion": "v1",
       "platformSpecific": true,
       "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.nvid.audio_stem_separator.png"
+    },
+    {
+      "id": "com.nativevid.youtube_downloader",
+      "version": "1.0.0",
+      "type": "script",
+      "author": "NativeVid",
+      "tags": [
+        "YouTube",
+        "下载",
+        "字幕",
+        "SRT",
+        "工具"
+      ],
+      "size": 36280922,
+      "downloads": 0,
+      "updatedAt": "2026-04-09",
+      "i18n": {
+        "ja_JP": {
+          "name": "YouTubeダウンロード",
+          "description": "YouTube の動画と字幕をダウンロードし、SRT 内の音楽や効果音のタグを自動で除去します。"
+        },
+        "zh_CN": {
+          "name": "YouTube下载",
+          "description": "下载 YouTube 视频和字幕，并自动清理 SRT 中的音乐、掌声等非对白提示。"
+        },
+        "en_US": {
+          "name": "YouTube Downloader",
+          "description": "Download a YouTube video with subtitles and automatically clean music and sound-effect cues from the SRT file."
+        },
+        "hi_IN": {
+          "name": "YouTube डाउनलोडर",
+          "description": "YouTube वीडियो और उसके सबटाइटल डाउनलोड करता है, और SRT फ़ाइल से संगीत व साउंड-इफेक्ट टैग अपने आप हटाता है।"
+        },
+        "ru_RU": {
+          "name": "Загрузчик YouTube",
+          "description": "Скачивает видео YouTube с субтитрами и автоматически удаляет из SRT пометки музыки и звуковых эффектов."
+        },
+        "de_DE": {
+          "name": "YouTube-Downloader",
+          "description": "Lädt ein YouTube-Video mit Untertiteln herunter und entfernt automatisch Musik- und Soundeffekt-Hinweise aus der SRT-Datei."
+        },
+        "pt_BR": {
+          "name": "Downloader do YouTube",
+          "description": "Baixa um vídeo do YouTube com legendas e remove automaticamente marcações de música e efeitos sonoros do arquivo SRT."
+        }
+      },
+      "downloadUrls": {
+        "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nativevid.youtube_downloader-v1.0.0/com.nativevid.youtube_downloader_1.0.0_mac.zip",
+        "china_mac": "https://nvid-plugins.oss-cn-shanghai.aliyuncs.com/com.nativevid.youtube_downloader_1.0.0_mac.zip"
+      },
+      "hash": {
+        "mac": "sha256:e088400783a553adcf7ce11249a8fe2a0b56e67edc039078f56555fddc040bf8"
+      },
+      "runtimeVersion": "v1",
+      "platformSpecific": true,
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.nativevid.youtube_downloader.png"
     }
   ]
 }
