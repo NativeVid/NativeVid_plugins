@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-04-10 01:53:39",
+  "updated_at": "2026-05-18 16:01:03",
   "plugins": [
     {
       "id": "com.antigravity.video_compressor",
@@ -218,6 +218,8 @@
         }
       },
       "downloadUrls": {
+        "international_win": "",
+        "china_win": "",
         "international_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nativevid.youtube_downloader-v1.0.4/com.nativevid.youtube_downloader_1.0.4_mac.zip",
         "china_mac": "https://github.com/NativeVid/NativeVid_plugins/releases/download/com.nativevid.youtube_downloader-v1.0.4/com.nativevid.youtube_downloader_1.0.4_mac.zip"
       },
@@ -226,7 +228,8 @@
       },
       "runtimeVersion": "v1",
       "platformSpecific": true,
-      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.nativevid.youtube_downloader.png"
+      "icon": "https://raw.githubusercontent.com/NativeVid/NativeVid_plugins/main/icon/com.nativevid.youtube_downloader.png",
+      "disabled": true
     }
   ]
 }
